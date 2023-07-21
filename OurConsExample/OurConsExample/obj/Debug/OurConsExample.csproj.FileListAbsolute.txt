@@ -1,0 +1,8 @@
+D:\simplilearn\day-9\OurConsExample\OurConsExample\bin\Debug\OurConsExample.exe.config
+D:\simplilearn\day-9\OurConsExample\OurConsExample\bin\Debug\OurConsExample.exe
+D:\simplilearn\day-9\OurConsExample\OurConsExample\bin\Debug\OurConsExample.pdb
+D:\simplilearn\day-9\OurConsExample\OurConsExample\obj\Debug\OurConsExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-9\OurConsExample\OurConsExample\obj\Debug\OurConsExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-9\OurConsExample\OurConsExample\obj\Debug\OurConsExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-9\OurConsExample\OurConsExample\obj\Debug\OurConsExample.exe
+D:\simplilearn\day-9\OurConsExample\OurConsExample\obj\Debug\OurConsExample.pdb

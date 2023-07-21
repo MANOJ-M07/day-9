@@ -1,0 +1,8 @@
+D:\simplilearn\day-9\ConsoleAppDisposableExample\ConsoleAppDisposableExample\bin\Debug\ConsoleAppDisposableExample.exe.config
+D:\simplilearn\day-9\ConsoleAppDisposableExample\ConsoleAppDisposableExample\bin\Debug\ConsoleAppDisposableExample.exe
+D:\simplilearn\day-9\ConsoleAppDisposableExample\ConsoleAppDisposableExample\bin\Debug\ConsoleAppDisposableExample.pdb
+D:\simplilearn\day-9\ConsoleAppDisposableExample\ConsoleAppDisposableExample\obj\Debug\ConsoleAppDisposableExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-9\ConsoleAppDisposableExample\ConsoleAppDisposableExample\obj\Debug\ConsoleAppDisposableExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-9\ConsoleAppDisposableExample\ConsoleAppDisposableExample\obj\Debug\ConsoleAppDisposableExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-9\ConsoleAppDisposableExample\ConsoleAppDisposableExample\obj\Debug\ConsoleAppDisposableExample.exe
+D:\simplilearn\day-9\ConsoleAppDisposableExample\ConsoleAppDisposableExample\obj\Debug\ConsoleAppDisposableExample.pdb

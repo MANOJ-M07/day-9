@@ -1,0 +1,8 @@
+D:\simplilearn\day-9\ConAppCric\ConAppCric\bin\Debug\ConAppCric.exe.config
+D:\simplilearn\day-9\ConAppCric\ConAppCric\bin\Debug\ConAppCric.exe
+D:\simplilearn\day-9\ConAppCric\ConAppCric\bin\Debug\ConAppCric.pdb
+D:\simplilearn\day-9\ConAppCric\ConAppCric\obj\Debug\ConAppCric.csproj.AssemblyReference.cache
+D:\simplilearn\day-9\ConAppCric\ConAppCric\obj\Debug\ConAppCric.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-9\ConAppCric\ConAppCric\obj\Debug\ConAppCric.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-9\ConAppCric\ConAppCric\obj\Debug\ConAppCric.exe
+D:\simplilearn\day-9\ConAppCric\ConAppCric\obj\Debug\ConAppCric.pdb

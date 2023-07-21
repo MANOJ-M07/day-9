@@ -1,0 +1,8 @@
+D:\simplilearn\day-9\ConsoleAppRegExExample\ConsoleAppRegExExample\obj\Debug\ConsoleAppRegExExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-9\ConsoleAppRegExExample\ConsoleAppRegExExample\obj\Debug\ConsoleAppRegExExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-9\ConsoleAppRegExExample\ConsoleAppRegExExample\obj\Debug\ConsoleAppRegExExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-9\ConsoleAppRegExExample\ConsoleAppRegExExample\bin\Debug\ConsoleAppRegExExample.exe.config
+D:\simplilearn\day-9\ConsoleAppRegExExample\ConsoleAppRegExExample\bin\Debug\ConsoleAppRegExExample.exe
+D:\simplilearn\day-9\ConsoleAppRegExExample\ConsoleAppRegExExample\bin\Debug\ConsoleAppRegExExample.pdb
+D:\simplilearn\day-9\ConsoleAppRegExExample\ConsoleAppRegExExample\obj\Debug\ConsoleAppRegExExample.exe
+D:\simplilearn\day-9\ConsoleAppRegExExample\ConsoleAppRegExExample\obj\Debug\ConsoleAppRegExExample.pdb

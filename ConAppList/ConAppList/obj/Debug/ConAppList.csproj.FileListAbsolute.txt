@@ -1,0 +1,8 @@
+D:\simplilearn\day-9\ConAppList\ConAppList\bin\Debug\ConAppList.exe.config
+D:\simplilearn\day-9\ConAppList\ConAppList\bin\Debug\ConAppList.exe
+D:\simplilearn\day-9\ConAppList\ConAppList\bin\Debug\ConAppList.pdb
+D:\simplilearn\day-9\ConAppList\ConAppList\obj\Debug\ConAppList.csproj.AssemblyReference.cache
+D:\simplilearn\day-9\ConAppList\ConAppList\obj\Debug\ConAppList.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-9\ConAppList\ConAppList\obj\Debug\ConAppList.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-9\ConAppList\ConAppList\obj\Debug\ConAppList.exe
+D:\simplilearn\day-9\ConAppList\ConAppList\obj\Debug\ConAppList.pdb
